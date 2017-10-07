@@ -47,6 +47,7 @@ holiday_hash = {
   }
 }
 
+supply = ["hello"]
 
 add_supply_to_winter_holidays(holiday_hash, supply)
 
